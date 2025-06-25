@@ -1,0 +1,31 @@
+Patient_ID,Full_Name,DOB,Height_cm,Weight_kg,Smoker_Status,Allergies,Medications,Visit_Date
+,,06-09-1990,,,Unknown,,,NotAvailable
+P371,,unknown,164,,Unknown,123,,NotAvailable
+P505,Peter123,1975/11/30,,,Y,123,,NotAvailable
+P234,Luke,06-09-1990,,71,N,,,
+P787,12345,06-09-1990,,,Unknown,,,03-01-2025
+,,unknown,?,,,Penicillin,Unknown,NotAvailable
+P760,Anna-Marie,,153,66,Yes,N/A,Unknown,2024/10/10
+P407,,,,,Y,N/A,Aspirin,NotAvailable
+P568,,unknown,,,Y,None,12345,03-01-2025
+P423,12345,1980-05-12,172,,No,123,12345,NotAvailable
+,Anna-Marie,1980-05-12,,,N,,12345,03-01-2025
+P869,,06-09-1990,,82,,None,Aspirin,
+P174,Mary Jane,,,,Unknown,N/A,12345,2024/10/10
+P109,Anna-Marie,unknown,,,Unknown,None,,03-01-2025
+P569,12345,1980-05-12,one seventy,eighty,,None,,03-01-2025
+,,1980-05-12,,,Y,Penicillin,,
+P736,,unknown,?,N/A,N,Penicillin,12345,
+P676,Anna-Marie,1975/11/30,one seventy,eighty,N,None,Unknown,2024/10/10
+P202,Mary Jane,06-09-1990,,,N,Peanuts,Paracetamol,
+P175,Peter123,unknown,,,,,,NotAvailable
+,,1975/11/30,180,92,No,N/A,Aspirin,03-01-2025
+P650,Mary Jane,06-09-1990,154,,Unknown,N/A,Paracetamol,2024/10/10
+P318,Mary Jane,,,,N,Penicillin,,
+P618,Anna-Marie,,one seventy,eighty,,Peanuts,12345,
+P371,,06-09-1990,?,eighty,,Peanuts,Aspirin,03-01-2025
+,Peter123,,,,,123,,2025-03-01
+P235,,,144,N/A,No,,,2024/10/10
+P457,,1980-05-12,,eighty,,None,12345,
+P170,,1980-05-12,?,eighty,Yes,123,,
+P350,Peter123,1980-05-12,147,N/A,Y,123,Unknown,
